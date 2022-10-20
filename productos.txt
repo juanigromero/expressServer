@@ -1,0 +1,20 @@
+[
+	{
+		"title": "patineta",
+		"price": 500,
+		"thumbnail": "http://d2r9epyceweg5n.cloudfront.net/stores/001/049/128/products/whatsapp-image-2022-02-01-at-4-40-44-pm1-ce0d338862904ee96116437525309399-640-0.jpeg",
+		"id": 1
+	},
+	{
+		"title": "guitarra",
+		"price": 5800,
+		"thumbnail": "http://d2r9epyceweg5n.cloudfront.net/stores/001/049/128/products/whatsapp-image-2022-02-01-at-4-40-44-pm1-ce0d338862904ee96116437525309399-640-0.jpeg",
+		"id": 2
+	},
+	{
+		"title": "peluca",
+		"price": 800,
+		"thumbnail": "http://d2r9epyceweg5n.cloudfront.net/stores/001/049/128/products/whatsapp-image-2022-02-01-at-4-40-44-pm1-ce0d338862904ee96116437525309399-640-0.jpeg",
+		"id": 3
+	}
+]
